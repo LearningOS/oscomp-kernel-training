@@ -57,6 +57,7 @@ github的CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相�
 - [哈工大深圳：OopS](https://gitlab.eduxiji.net/ZYF_2001/oskernel2022-oops.git)
 
 ### 训练与比赛信息（丰富的学习与训练资源）
+- [与内核赛道相关的一些硬件/OS相关的实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
 - [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [2022全国大学生操作系统比赛相关信息-技术报告/学习资料等](https://github.com/oscomp/os-competition-info)
 - [全国大学生操作系统比赛官网](https://os.educg.net/)
