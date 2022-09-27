@@ -1,7 +1,7 @@
 # oscomp kernel training
 
 ## 基于2022全国大学生OS比赛内核赛道的训练邀请
-- [点击：创建内核赛道的训练repo](https://classroom.github.com/a/vk-D9SrL)
+- [点击：创建自己的内核赛道训练repo](https://classroom.github.com/a/vk-D9SrL)
 - [查看训练排行榜单](https://os-autograding.github.io/classroom-grading-template/)
 
 **注：训练基于Github Classroom，在线编程，在线自动评测，在线显示排行榜**
