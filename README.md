@@ -40,3 +40,17 @@ CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `lo
 - 内核可用内存大小为 `2G`
 - 只有 `main` 分支的提交可以被评测机处理
 - 评测机在初次运行时需要编译 `qemu`，可能需要花费一些时间，请耐心等待
+
+## 学习资源
+### 2022OS比赛内核实现赛道一等奖的仓库（包含文档/代码等）
+- [北航：图漏图森破](https://gitlab.eduxiji.net/19373469/oskernel2022-x.git)
+- [西工大：NPUcore](https://gitlab.eduxiji.net/2019301887/oskernel2022-npucore.git)
+- [清华：Maturin](https://gitlab.eduxiji.net/scPointer/maturin.git)
+- [哈工大深圳：FTL OS](https://gitlab.eduxiji.net/DarkAngelEX/oskernel2022-ftlos.git)
+- [杭电：进击のOS](https://gitlab.eduxiji.net/YzTz/os.git)
+- [哈工大深圳：OopS](https://gitlab.eduxiji.net/ZYF_2001/oskernel2022-oops.git)
+
+### 训练与比赛信息
+- [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
+- [2022全国大学生操作系统比赛相关信息-技术报告/学习资料等](https://github.com/oscomp/os-competition-info)
+- [全国大学生操作系统比赛官网](https://os.educg.net/)
