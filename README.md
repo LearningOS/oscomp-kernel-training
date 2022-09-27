@@ -4,6 +4,8 @@
 - [点击：创建内核赛道的训练repo](https://classroom.github.com/a/vk-D9SrL)
 - [查看排行榜单](https://os-autograding.github.io/classroom-grading-template/)
 
+**注：训练基于Github Classroom，在线编程，在线自动评测，在线显示排行榜**
+
 ## 内核赛道OS训练repo说明
 
 > 目前支持 os 比赛相关测例的测试，采用形式与 os 比赛相同，选手需要在根目录添加一个 Makefile 文件，使用 make all 命令在根目录生成 kernel-qemu 文件，由评测机自动执行。
