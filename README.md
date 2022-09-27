@@ -11,7 +11,9 @@
 
 目前已经支持 `libc-test`， `busybox`, `lua`, `lmbench` 相关测例，测试过程无人工干预，需要由内核自动运行，所有测例文件放在镜像中，内核需要支持 `fat32` 文件系统来读取文件。 [镜像文件](https://github.com/os-autograding/testsuits-in-one/raw/gh-pages/fat32.img)
 
-评测机运行指令如下：
+## 本地测试
+
+如你写好OS后，想在在本地测试，评测运行指令如下：
 
 ```shell
 qemu-system-riscv64 \
@@ -25,11 +27,12 @@ qemu-system-riscv64 \
     -smp 4 -m 2G
 ```
 
-内核执行时间为 `300` 秒（`5`分钟），超时后程序会被终止，不再继续执行，所得分数为超时前完成的部分的分数。
+## 在线测试
+github的CI对内核进行测试的执行时间设置为 `300` 秒（`5`分钟），超时后程序会被终止，不再继续执行，所得分数为超时前完成的部分的分数。
 
-程序执行完毕会在 gp-pages 目录下生成相关的 `log` 文件和 `README` 文件，在 `README` 文件中可以看到当前得到的分数，在 `log` 文件中能看到详细的得分情况。
+CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `log` 文件和 `README` 文件，在 `README` 文件中可以看到当前得到的分数，在 `log` 文件中能看到详细的得分情况。
 
-注意事项：
+## 注意事项
 - `QEMU` 版本为 `7.0.0`
 - `RUST ToolChain` 版本为 `nightly-2022-08-08`
 - 编译目标架构为 `riscv64imac-unknown-none-elf`
