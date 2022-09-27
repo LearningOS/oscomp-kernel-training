@@ -18,7 +18,7 @@
 ```shell
 qemu-system-riscv64 \
     -machine virt \
-    -bios sbi-qemu \
+    -bios default \
     -device loader,file=kernel-qemu,addr=0x80200000 \
     -drive file=fat32.img,if=none,format=raw,id=x0 \
     -device virtio-blk-device,drive=x0,bus=virtio-mmio-bus.0 \
