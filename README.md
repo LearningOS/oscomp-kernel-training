@@ -50,7 +50,7 @@ CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `lo
 - [杭电：进击のOS](https://gitlab.eduxiji.net/YzTz/os.git)
 - [哈工大深圳：OopS](https://gitlab.eduxiji.net/ZYF_2001/oskernel2022-oops.git)
 
-### 训练与比赛信息
+### 训练与比赛信息（丰富的学习与训练资源）
 - [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [2022全国大学生操作系统比赛相关信息-技术报告/学习资料等](https://github.com/oscomp/os-competition-info)
 - [全国大学生操作系统比赛官网](https://os.educg.net/)
