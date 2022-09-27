@@ -57,3 +57,7 @@ CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `lo
 - [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [2022全国大学生操作系统比赛相关信息-技术报告/学习资料等](https://github.com/oscomp/os-competition-info)
 - [全国大学生操作系统比赛官网](https://os.educg.net/)
+
+## 致谢
+- 杨金博：oscomp-kernel-training github classroom/CI的搭建
+- 王明健：设计实现测试用例和评测方法等
