@@ -1,5 +1,10 @@
 # oscomp-kernel
 
+## 基于2022全国大学生OS比赛内核赛道的训练邀请
+- [点击：创建内核赛道的训练repo](https://classroom.github.com/a/vk-D9SrL)
+
+## 内核赛道OS训练repo说明
+
 > 目前支持 os 比赛相关测例的测试，采用形式与 os 比赛相同，选手需要在根目录添加一个 Makefile 文件，使用 make all 命令在根目录生成 sbi-qemu 和 kernel-qemu 两个文件，由评测机自动执行。
 
 一个基本的能运行的 `demo`： [https://github.com/yfblock/oscomp-kernel-example](https://github.com/yfblock/oscomp-kernel-example)
