@@ -2,7 +2,7 @@
 
 ## 基于2022全国大学生OS比赛内核赛道的训练邀请
 - [点击：创建内核赛道的训练repo](https://classroom.github.com/a/vk-D9SrL)
-- [查看排行榜单](https://os-autograding.github.io/classroom-grading-template/）
+- [查看排行榜单](https://os-autograding.github.io/classroom-grading-template/)
 
 ## 内核赛道OS训练repo说明
 
