@@ -1,4 +1,4 @@
-# oscomp-kernel
+# oscomp kernel training
 
 ## 基于2022全国大学生OS比赛内核赛道的训练邀请
 - [点击：创建内核赛道的训练repo](https://classroom.github.com/a/vk-D9SrL)
