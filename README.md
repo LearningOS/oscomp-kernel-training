@@ -11,7 +11,7 @@
 > 目前支持 os 比赛相关测例的测试，采用形式与 os 比赛相同，选手需要在根目录添加一个 Makefile 文件，使用 make all 命令在根目录生成 kernel-qemu 文件，由评测机自动执行。
 
 - 一个基本的能运行的 `kernel demo`： [https://github.com/yfblock/oscomp-kernel-example](https://github.com/yfblock/oscomp-kernel-example)
-- 一个能通过所有测例的 `kernel complete reference`：[暂不公布]()
+- 一个能通过所有测例的 `complete kernel reference`：[暂不公布]()
 
 目前已经支持 `libc-test`， `busybox`, `lua`, `lmbench` 相关测例，测试过程无人工干预，需要由内核自动运行，所有测例文件放在镜像中，内核需要支持 `fat32` 文件系统来读取文件。 [镜像文件](https://github.com/os-autograding/testsuits-in-one/raw/gh-pages/fat32.img)
 
