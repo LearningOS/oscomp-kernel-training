@@ -1,10 +1,13 @@
 # oscomp kernel training
 
-## 基于2022全国大学生OS比赛内核赛道的训练邀请
+## 训练邀请：OS kernel设计实现（基于2022全国大学生OS比赛内核赛道内容&Github Classroom）
 - [点击：创建自己的内核赛道训练repo](https://classroom.github.com/a/vk-D9SrL)
 - [查看训练排行榜单](https://os-autograding.github.io/classroom-grading-template/)
 
-**注：训练基于Github Classroom，在线编程，在线自动评测，在线显示排行榜**
+**注：**
+**1. 训练基于Github Classroom，具有在线编程，在线自动评测，在线显示排行榜的特征**
+**2. 训练内容和难度超过全球99.9%的大学本科OS实验**
+**3. 没学过C/Rust语言、基本数据结构和算法、操作系统相关的课程和与RISC-V相关的组成原理的同学，建议先补一下相关知识**
 
 ## 内核赛道OS训练repo说明
 
