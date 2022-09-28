@@ -10,7 +10,7 @@ on:
 
 env:
   IMG_URL: https://github.com/os-autograding/testsuits-in-one/raw/gh-pages/fat32.img # 镜像url
-  TIMEOUT: 300 # 超时时间
+  TIMEOUT: 480 # QEMU超时时间设置为8分钟
   SCRIPT_REPO: https://github.com/os-autograding/EvaluationScript # 脚本仓库
   TZ: Asia/Shanghai # 设置时区
 
