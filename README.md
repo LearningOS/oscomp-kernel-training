@@ -7,7 +7,7 @@
 **注：**
 1. **基于Github Classroom，具有在线编程，在线自动评测，在线显示排行榜的特征**
 2. **基于2022全国大学生OS比赛内核赛道，训练内容和难度超过全球99.9%的大学本科OS实验**
-3. **没学过C/Rust语言、基本数据结构和算法、操作系统和与RISC-V相关的组成原理课程的同学，建议先补一下相关知识**
+3. **没学过git/github使用、C/Rust语言、基本数据结构和算法、操作系统和与RISC-V相关的组成原理课程的同学，建议先补一下相关知识**
 
 ## 内核赛道OS训练repo说明
 
@@ -59,7 +59,7 @@ github的CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相�
 - [杭电：进击のOS](https://gitlab.eduxiji.net/YzTz/os.git)
 - [哈工大深圳：OopS](https://gitlab.eduxiji.net/ZYF_2001/oskernel2022-oops.git)
 
-### 训练与比赛信息（丰富的学习与训练资源）
+### 训练与比赛信息（丰富的基础OS相关学习与训练资源）
 - [与内核赛道相关的一些硬件/OS相关的实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
 - [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [2022全国大学生操作系统比赛相关信息-技术报告/学习资料等](https://github.com/oscomp/os-competition-info)
