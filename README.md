@@ -47,6 +47,7 @@ github的CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相�
 - 内核可用内存大小为 `2G`
 - 只有 `main` 分支的提交可以被Github 上的CI评测机处理
 - Github 上的CI评测机在初次运行时需要编译 `qemu`，可能需要花费一些时间，请耐心等待
+- 所有测例均由`musl-gcc`编译，包括`lmbench`。
 - 如果在实践中碰到问题，请在本repo的 `issues` 栏中发帖子
 - 如果有进一步的改进，请给本repo提 `Pull requests`
 
