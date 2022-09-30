@@ -43,7 +43,7 @@ github的CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相�
 - `QEMU` 版本为 `7.0.0`
 - `RUST ToolChain` 版本为 `nightly-2022-08-08`
 - 编译目标架构为 `riscv64imac-unknown-none-elf`
-- 内核执行时间为 `5` 分钟
+- 内核执行时间为 `8` 分钟
 - 内核可用内存大小为 `2G`
 - 只有 `main` 分支的提交可以被Github 上的CI评测机处理
 - Github 上的CI评测机在初次运行时需要编译 `qemu`，可能需要花费一些时间，请耐心等待
